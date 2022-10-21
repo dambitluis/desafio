@@ -7,7 +7,7 @@
 ✓ Suba sua aplicação em K8S usando yml e terraform
 ✓ Crie uma estrutura de Observability usando Grafana + Loki + Prometheus
 
-======================================================================================================================
+========================================================================
 
 learn-terraform-helm
 
